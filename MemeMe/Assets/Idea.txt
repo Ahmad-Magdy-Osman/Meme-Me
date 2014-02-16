@@ -1,0 +1,176 @@
+Meme Me Application:
+	Image Editing
+		Using Nokia Image SDK
+		Dragging 
+		Moving
+		Rotating 
+		Resizing Memes
+		Undoing
+	Captions
+		Over Than 20 Fonts With Sizes & Background Colours & Foreground Colours
+		Over Than 20 Background Colours
+		Multiple Languages Support
+		Mechanism
+			Top
+			Bottom
+			Right
+			Left
+	Panel System
+		Over Than 20 Fonts With Sizes & Background Colours & Foreground Colours
+		Text Rotating System Any Degree
+		Multiple Languages Support
+	Main Features
+		Opening Pictures
+		Taking Snapshots
+		Saving Pictures
+		Sharing Pictures
+			Instagram
+			FB
+			Twitter
+			G+
+			Sky Drive
+	Rating
+		Rating From Application
+		Rating From Menu Bar
+		Rating From Tapping App Icon (With Pin Option)
+		Rating On Exit(Every 5 Application Start Untill Rated)
+	About Page Every 10 Applications Start(Untill Choosen To Not To Be Seen)
+		Maill Button
+		FB Button
+		Twitter Button
+		G+ Button
+		Rate & Review Button
+		Developer Name
+	Technical Features
+		App Bar
+			Menu Bar
+		Fast App Resume
+		Scroll Bars
+		Buttons
+			Override Back Button
+			Meme Buton
+				Image Button Style
+			Caption Button
+			Text Button
+			Undo Button
+	Tiles & Icons
+		Small Tiles
+		Medium Tiles
+		Large Tiles
+		App Store Icon
+		App Icon
+	Marketing
+		Social Networks
+			FB Fan Page
+			Twitter Account
+			G+ Fan Page
+		Contact
+			E-Mail
+		Data
+			Highly Informative Tags
+			Highly Informative Description
+			High Quality Pictures
+		Publishing
+			WP8 Sites Marketing
+		
+Starting:
+			Articles About .NET Framework: http://sherifelmahdi.wordpress.com/category/net-framework/
+			Requirements For Windows Phone Development: http://sherifelmahdi.wordpress.com/2013/02/23/prerequisites-of-studying-windows-phone-platform/
+			Windows Phone Dev Wiki: http://developer.nokia.com/Community/Wiki/Category:Windows_Phone
+			Windows Phone 8 Kit: http://www.microsoft.com/en-eg/download/details.aspx?id=35777
+
+Tutorials:
+			Windows Phone 8 Training: http://www.microsoftvirtualacademy.com/training-courses/windows-phone-8-apps-development-jumpstart#fbid=7mZhONTTw6O
+			Training Related Stuff: http://social.msdn.microsoft.com/Search/en-US?query=jumpstart&emptyWatermark=true&ac=4#refinementChanges=203&pageNumber=1&showMore=false
+			Arabic Tutorial: http://www.youtube.com/watch?v=PhyVOhraAhE&feature=share&list=PLr7qe5sq3q_l2pltw5c1DO6CsnZq_uOWc
+			How To Start A Project: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff402526(v=vs.105).aspx
+
+Guidelines:
+			Windows Phone 8 Design: http://dev.windowsphone.com/en-us/design
+			Windows Phone 8 Design Guidelines: http://blogs.msdn.com/b/africaapps/archive/2013/01/20/windows-phone-8-design-guidelines.aspx
+			Application Resolutions: http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj206974(v=vs.105).aspx
+			WP8 App Cycle: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff817008(v=vs.105).aspx
+
+Tutorials: 
+			Horizontal Scrollviewers: http://www.c-sharpcorner.com/Blogs/9960/horizontal-scrollviewer.aspx
+			How To Make An App Bar: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff431786(v=vs.105).aspx
+			App Bar Propereties: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff431813(v=vs.105).aspx
+			Photo Chooser Task: http://msdn.microsoft.com/en-us/library/windowsphone/develop/hh394019(v=vs.105).aspx
+			Buttons With Background Images http://social.msdn.microsoft.com/Forums/wpapps/en-US/ae8a3dbd-5210-47cc-ad80-17e36d6cd14c/buttons-with-a-background-image-turn-white-on-press-i-want-them-to-show-the-same-image
+			Rate App Reminder: http://stackoverflow.com/questions/16957190/rate-app-reminder-for-windows-phone
+			Change System Tray Color: http://stackoverflow.com/questions/8072410/change-system-tray-color-windows-phone
+			Setting Margins In C#: http://stackoverflow.com/questions/9098087/setting-margin-from-c-sharp-code
+			Fast App Resume: http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj735579(v=vs.105).aspx
+			Pop Up in C#: http://developer.nokia.com/Community/Wiki/How_to_use_Pop-Ups_in_Windows_Phone
+			Pop Up In XAML: http://code.msdn.microsoft.com/windowsapps/XAML-Popup-sample-5ae00a42
+			Page Navigation: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff626521(v=vs.105).aspx
+			Drag & Drop: http://developer.nokia.com/Community/Wiki/Drag_&_Drop_in_Windows_Phone
+			Photo Chooser Task: http://msdn.microsoft.com/en-us/library/windowsphone/develop/hh394019(v=vs.105).aspx
+
+Image SDK:
+			Nokia Imaging SDK: http://developer.nokia.com/Develop/Windows_Phone/nokia_apis/imaging.xhtml
+			Nokia Image SDK Documentation: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk.html
+			Installing Nokia Image SDK To Project: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk/adding-libraries-to-the-project.html
+			Nokia Image SDK Quick Start: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk/quick-start.html
+			Nokia Image SDK Presentation: http://www.slideshare.net/nokia-developer/lumia-app-labs-using-the-nokia-imaging-sdk
+
+Data Type:
+			Data Types For Windows Phone: http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff402541(v=vs.105).aspx
+			Isolated Storage File Propereties: http://msdn.microsoft.com/en-us/library/windowsphone/develop/system.io.isolatedstorage.isolatedstoragefile%28v=vs.105%29.aspx
+
+Projects:
+			Memes Projects:
+						Meme Me iPhone APP: https://itunes.apple.com/us/app/mememe-for-iphone/id635715936?mt=8
+			WP8 Samples:
+						Windows Phone Samples: http://code.msdn.microsoft.com/wpapps/
+						Windows Phone 8 Samples: http://code.msdn.microsoft.com/wpapps/site/search?f%5B0%5D.Type=Technology&f%5B0%5D.Value=Windows%20Phone%208
+			Images Edit:	
+						Basic Image Editing & Capturing: http://code.msdn.microsoft.com/wpapps/Photos-Sample-a38a2c8e
+						Image Recipes: http://code.msdn.microsoft.com/wpapps/Image-Recipes-0c0b8fee
+						Photo Extensibility Sample: http://code.msdn.microsoft.com/wpapps/Photo-Extensibility-Sample-db289044
+						Load Image In Isolated Storage: http://code.msdn.microsoft.com/wpapps/CSWP8ImageFromIsolatedStora-8dcf8411
+						Long List Selector For Images: http://code.msdn.microsoft.com/wpapps/PhotoHub-Windows-Phone-8-fd7a1093
+						Dynamic Images: http://code.msdn.microsoft.com/wpapps/CSWP8ImageOperation-c579e22c
+						Image Loader: http://code.msdn.microsoft.com/wpapps/Set-image-loader-in-4ac4ecae
+						Merging Images: http://code.msdn.microsoft.com/wpapps/merge-multiple-on-a-single-e7cdaa76
+			Camera:
+						Basic Camera: http://code.msdn.microsoft.com/wpapps/Basic-Lens-sample-359fda1b
+						Basic Camera Sample: http://code.msdn.microsoft.com/wpapps/Basic-Camera-Sample-52dae359
+						Camera Color Picker Sample: http://code.msdn.microsoft.com/wpapps/Camera-Color-Picker-Sample-515020ea
+			Images SDK:
+						Real-Time Filters: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk/sample-projects/real-time-filter-demo.html
+						Filter Effects: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk/sample-projects/filter-effects.html
+						Filter Explorer: http://developer.nokia.com/Resources/Library/Lumia/#!nokia-imaging-sdk/sample-projects/filter-explorer.html
+			Tiles:
+						Tiles, Lock & Notification: http://code.msdn.microsoft.com/wpapps/Tiles-Lock-and-Notification-e63f498b
+						Tiles, Lock & Notification 2nd Version: http://code.msdn.microsoft.com/wpapps/Tiles-Lock-and-Notification-785d00b5
+						Shell Tile Schedule: http://code.msdn.microsoft.com/wpapps/Shell-Tile-Schedule-589f628e
+						Inside-App Tiles: http://code.msdn.microsoft.com/wpapps/Windows-Phone-XAML-Create-3707b497
+						Background Agent: http://code.msdn.microsoft.com/wpapps/Periodic-Background-Agent-1b562ebc
+						Tile Notification Sample: http://code.msdn.microsoft.com/wpapps/Tile-Notification-Sample-55c58631
+						Manage LiveTiles: http://code.msdn.microsoft.com/wpapps/Manage-LiveTiles-on-71-AND-d9091d2b
+			Mutli-Touch: 
+						Multi-Touch Drawing: http://code.msdn.microsoft.com/wpapps/Multi-Touch-Drawing-744a0b48
+						Multi-Touch Behaviors: http://code.msdn.microsoft.com/wpapps/Multi-Touch-Behaviors-for-eea7fb30
+			Fast-App Resume: 
+						Fast App Resume: http://code.msdn.microsoft.com/wpapps/Fast-app-resume-backstack-f16baaa6
+						Full Advantage Of Fast App Resume: http://code.msdn.microsoft.com/wpapps/How-to-take-full-advantage-d63fa53c
+			Buttons:
+						Buttons Custom Editing: http://code.msdn.microsoft.com/wpapps/Windows-Phone-Custom-Style-b48d528a
+						Buttons Effects: http://code.msdn.microsoft.com/wpapps/Button-Effects-by-Anwar-4dc1d97f
+						Custom Image Button: http://code.msdn.microsoft.com/wpapps/Custom-Image-Button-in-4b300b62
+			Effects:
+						Camera Feed To Bytes(For Effects): http://code.msdn.microsoft.com/wpapps/CSWP8CameraFeedByteConverte-979b13f0
+						Rendering Text: http://code.msdn.microsoft.com/wpapps/Render-text-on-bitmap-838564f8
+			Files & Data:
+						File Browser: http://code.msdn.microsoft.com/wpapps/First-Explorer-Windows-8-cb6b234b
+						URI Association: http://code.msdn.microsoft.com/wpapps/URI-Association-Sample-7915a233
+						Navigation URI: http://code.msdn.microsoft.com/wpapps/Navigation-URI-scheme-4763c5f7
+						Isolated Storage: http://code.msdn.microsoft.com/wpapps/Isolated-Storage-WP8-f75779fc
+			Misc:
+						Windows Phone Choosers: http://code.msdn.microsoft.com/wpapps/Windows-Phone-Choosers-99aeec4b
+						Tilt Effects: http://code.msdn.microsoft.com/wpapps/Tilt-Effect-Sample-fab3b035
+						App Settings: http://code.msdn.microsoft.com/wpapps/Settings-Sample-4900bb1b
+						Sky Drive Sharing: http://code.msdn.microsoft.com/wpapps/Backup-Isolated-Storage-To-0d4b4357
+						Data Between Pages: http://code.msdn.microsoft.com/wpapps/Passing-Data-between-Pages-958ee09b
+						Environment Recipes: http://code.msdn.microsoft.com/wpapps/Environment-Recipes-2e4d167d

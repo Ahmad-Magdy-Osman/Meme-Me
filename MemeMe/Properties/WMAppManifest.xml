@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="en-US" />
+  </Languages>
+  <App xmlns="" ProductID="{a2c34424-c738-40ff-83c1-a496d0568e73}" Title="Meme Me" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Ahned Magdy" Description="Meme Me is an entertainment application from replacing faces with memes faces... have fun with your friends :)" Publisher="Ahmed Magdy" PublisherID="{8afb762c-2230-428e-9de8-bcf4fa389893}">
+    <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_ISV_CAMERA" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="MemeMeToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\Tile Small.png</SmallImageURI>
+          <Title>Meme Me</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 1.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 2.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 3.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 4.png</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 5.png</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 6.png</Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 7.png</Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 8.png</Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">Assets\Tiles\Medium Resolutions\Cycle 9.png</Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false">
+          </DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
